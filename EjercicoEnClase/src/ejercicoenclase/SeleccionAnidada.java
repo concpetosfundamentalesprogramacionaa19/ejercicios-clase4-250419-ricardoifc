@@ -6,6 +6,7 @@
 package ejercicoenclase;
 import paquete1.Operacion2;
 import java.util.Scanner;
+
 /**
  *
  * @author Ricardo Freire

@@ -28,5 +28,4 @@ int calificacion_2;
     calificacion_2 = entrada.nextInt();
 if (calificacion_2 >= 85) {
     System.out.printf("%s %d\n",,miMensaje, calificacion_2);
-}
-}
+}}
